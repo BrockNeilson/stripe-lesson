@@ -2,8 +2,11 @@ stripe-lesson
 =============
 
 quick introduction to Stripe payment integration
-
 =============
+Slide deck: http://slides.com/brockneilson/deck
+Useful tutorials: http://www.larryullman.com/series/processing-payments-with-stripe/
+=============
+##MINI PROJECT
 
 ##Step 1:
 Fork & clone Git Repo
